@@ -1,0 +1,21 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 220px);
+  justify-content: center;
+  gap: 24px;
+  margin: 0;
+  padding: 0;
+}
+
+.status-message {
+  padding: 24px;
+  color: #d8deea;
+  text-align: center;
+}
+
+.error-message {
+  border: 1px solid #b84b4b;
+  border-radius: 8px;
+  background: rgba(184, 75, 75, 0.12);
+  color: #ffb3b3;
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 750">
+  <rect width="500" height="750" fill="#263043"/>
+  <rect x="175" y="205" width="150" height="150" rx="75" fill="#69778f"/>
+  <path d="M95 640c20-130 90-190 155-190s135 60 155 190H95z" fill="#69778f"/>
+  <text x="250" y="700" fill="#d9e1f2" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">Sin poster</text>
+</svg>
