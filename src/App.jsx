@@ -18,9 +18,9 @@ function App() {
           className="footer-logo"
         />
         <div className="footer-info">
-          <p><strong>Integrantes:</strong> Por definir</p>
-          <p><strong>Profesor:</strong> Por definir</p>
-          <p><strong>Materia:</strong> Programación visual</p>
+          <p><strong>Creador:</strong> Carlos David Macias Santillan</p>
+          <p><strong>Profesor:</strong> Zeus Emanuel Gutierrez Cobian</p>
+          <p><strong>Materia:</strong> Desarrollo De Aplicaciones Web en la Nube y Móviles</p>
           <p><strong>Calendario escolar:</strong> 2026A</p>
           <p>Institución: CUCEI – Universidad de Guadalajara</p>
           <p>Mes y año: Noviembre 2026</p>
